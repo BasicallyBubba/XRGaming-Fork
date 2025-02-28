@@ -1,4 +1,7 @@
 # XR Gaming Plugin
+This is just a fork because I'm super broke.
+Support the author here:
+
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/U7U8OVC0L) 
 
 [![Chat](https://img.shields.io/badge/chat-on%20discord-7289da.svg)](https://discord.gg/aJT72wKpXn)
