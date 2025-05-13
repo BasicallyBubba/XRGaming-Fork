@@ -1,6 +1,5 @@
 # XR Gaming Plugin
-This is just a fork because I'm super broke.
-Support the author here:
+~~This is just a fork because I'm super broke.~~ Forking this repo unfortunately won't bypass licensing checks. But the XR Gaming developer wants this plugin to be available to everyone, so if you can't afford to donate at the moment, then reach out to wayne@xronlinux.com and they'll be happy to help out.
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/U7U8OVC0L) 
 
